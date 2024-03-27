@@ -1,3 +1,4 @@
+#!/bin/python
 
 originals = []
 with open("sensor_database.csv") as fp:
